@@ -9,7 +9,6 @@
 
 <p >
 
- Description du projet 
 Après avoir suivie le tutorial laravel de teacher du net, j'ai pu réaliser ce projet.
  Raccourcisseur-url écrit en PHP avec le framework Laravel. il offre la possibilité de raccourcir vos urls long en urls courts. 
 
